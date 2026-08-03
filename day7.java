@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class concatinationOfArray {
+public class day7
+ {
 
     // Function to concatenate the array with itself
     public static int[] getConcatenation(int[] nums) {

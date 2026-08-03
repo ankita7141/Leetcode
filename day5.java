@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class sumOf1DArray {
+public class day5 {
 
     // Function to calculate running sum
     public static int[] runningSum(int[] nums) {
